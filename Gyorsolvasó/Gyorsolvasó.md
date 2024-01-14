@@ -1,8 +1,8 @@
 # Gyorsolvasó
 
 Olvassa el az alábbi cikket, hogyan működik egy érdekes gyorsolvasó technika, és a leírás alapján próbálja ki működés közben:
-[Gyorsolvasó](https://hvg.hu/tudomany/20140322_gyorsolvasas_chrome_spreed)
-[Gyorsolvasó Chrome bővítmény](https://chromewebstore.google.com/detail/swiftread-read-faster-lea/ipikiaejjblmdopojhpejjmbedhlibno)
+- [Gyorsolvasó](https://hvg.hu/tudomany/20140322_gyorsolvasas_chrome_spreed)
+- [Gyorsolvasó Chrome bővítmény](https://chromewebstore.google.com/detail/swiftread-read-faster-lea/ipikiaejjblmdopojhpejjmbedhlibno)
 
 ## A feladat
 1. A program két paramétert kap:
