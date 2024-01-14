@@ -6,7 +6,7 @@ Készítsen egy asztali alkalmazást, ami a projekt mappájában elhelyezett sz�
 A karakter – ujj hozzárendelés táblázathoz ismerni kell a felülről nézett, tenyérrel lefordított ujjak számozását:
 ![](image2.jpeg)
 
-A szöveges táblázat részlete, értelmezése:
+A szöveges táblázat részlete, értelmezése:  
 ![](image3.png)
 
 A táblázat pontosvesszővel elválasztott 3 oszlopból ál:
