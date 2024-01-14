@@ -35,5 +35,8 @@ Kódolt szöveg:
  ![](image4.png)
 
 ## A program hogy működjön
-- A program képes legyen a `kodolt.txt` fájl visszafordítására a `kodoltMegfejtes.txt` fájlba.
-- A programot írja meg úgy, hogy az képes legyen egy titkosított üzenetváltást használhatóan lekezelni. Ennek megoldási módja az ön feladata.
+1. A program képes legyen a `kodolt.txt` fájl visszafordítására a `kodoltMegfejtes.txt` fájlba.
+
+2. A programot írja meg úgy, hogy az képes legyen egy titkosított üzenetváltást használhatóan lekezelni. Ennek megoldási módja az ön feladata.
+
+3. A program a képernyőn informálja a felhasználót, hogy melyik fájlba mi készült el.
