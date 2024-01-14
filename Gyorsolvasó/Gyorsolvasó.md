@@ -6,8 +6,8 @@ Olvassa el az alábbi cikket, hogyan működik egy érdekes gyorsolvasó technik
 
 ## A feladat
 1. A program két paramétert kap:
-- A szövegfájlt, amit el  kell olvasni, és
-- Az olvasási sebességet: hány szó/perc (angolul: wpm Word Per Minutes). Ez tipikusan 200...300 körüli érték.
+    - A szövegfájlt, amit el  kell olvasni, és
+    - Az olvasási sebességet: hány szó/perc (angolul: wpm Word Per Minutes). Ez tipikusan 200...300 körüli érték.
 
 2. A program a konzolon próbálja meg minél jobban utánozni az alkalmazást.
     - Először próbálja úgy, hogy szavanként kirakja a szöveget a képernyő közepére.
