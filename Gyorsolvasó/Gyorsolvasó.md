@@ -29,8 +29,9 @@ Ebben segít az alábbi ábra, ahol a méreteket (ablakSzélesség, szóSzéless
 ![](kep1.png)
 
 ## Minta program
-A források között mellékeltünk egy kezdetleges mintaprogramot. Első körben valami ilyesmit képzeltünk el.
-Indítás prancssorból. (parancsablak indítás: intéző címsorába beír: cmd és enter) 
+- A források között mellékeltünk egy kezdetleges futtatható mintaprogramot forráskód nélkül (`gyorsolvaso.exe`) és egy hozzá tartozó szöveget (`szoveg.txt`). 
+- Első körben valami ilyesmit képzeltünk el.
+- Indítás prancssorból. (parancsablak indítás: intéző címsorába beír: `cmd` és enter):
 ```
 gyorsolvaso szoveg.txt 200
 ```
