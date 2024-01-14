@@ -18,13 +18,18 @@
 
 # Feladatok, és kiosztásuk
 ## Linq bemutása mintapéldákkal
-LinqProjekt
+Linq
 
 ## Gépírás statisztikai elemző
-GepirasProjekt
+Gepiras
 
 ## Vigienere
-VigienereProjekt
+Vigienere
+
+## Költők szóstatisztikája
+Költők
+
+
 
 
 
