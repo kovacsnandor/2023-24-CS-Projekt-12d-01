@@ -5,6 +5,7 @@ Készítsen egy asztali alkalmazást, ami a projekt mappájában elhelyezett sz�
 ### `fingerOrder.csv`
 A karakter – ujj hozzárendelés táblázathoz ismerni kell a felülről nézett, tenyérrel lefordított ujjak számozását:
 ![](image2.jpeg)
+<img src="image2.jpg">
 
 A szöveges táblázat részlete, értelmezése:  
 ![](image3.png)
