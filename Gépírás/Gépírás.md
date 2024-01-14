@@ -4,10 +4,10 @@ Készítsen egy asztali alkalmazást, ami a projekt mappájában elhelyezett sz�
 ## Fájl értelmezések
 ### `fingerOrder.csv`
 A karakter – ujj hozzárendelés táblázathoz ismerni kell a felülről nézett, tenyérrel lefordított ujjak számozását:
-![](image2.jpeg)
+![](image2.jpeg){width=500}
 
 A szöveges táblázat részlete, értelmezése:  
-![](image3.png)
+![](image3.png){width=60}
 
 A táblázat pontosvesszővel elválasztott 3 oszlopból ál:
 1. oszlop: karakter;
