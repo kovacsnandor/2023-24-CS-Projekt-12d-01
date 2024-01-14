@@ -17,21 +17,15 @@
 - `Előadás` (mappa): célszerűen egy ppt előadás
 
 # Feladatok, és kiosztásuk
-## Linq bemutása mintapéldákkal
-Linq
 
-## Gépírás statisztikai elemző
-Gepiras
-
-## Vigienere
-Vigienere
-
-## Költők szókincse
-Költők
-
-## Gyorsolvasó
-Gyorsolvasó
-
+- Expedíció
+- Gyorsolvasó
+- Gépírás elemző
+- Konverterek
+- Költők szókincse
+- Linq bemutása mintapéldákkal
+- Vigienere tábla
+- Véletlen könyvtár
 
 
 
