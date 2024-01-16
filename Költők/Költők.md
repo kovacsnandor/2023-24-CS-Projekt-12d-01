@@ -1,6 +1,9 @@
 # Költők szókincse
 Hasonlítsa össze három magyar költő: `Arany János`, `Petőfi Sándor`, `Ady Endre` szóhasználatát.
 
+# Ezsközök
+[pdf konverter](https://online2pdf.com/)
+
 ## A feladat részletezése
 ### 1. Adatgyűjtés
 Töltse le a három költő összes költeményét `txt formában`.
