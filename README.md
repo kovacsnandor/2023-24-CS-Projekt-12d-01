@@ -15,6 +15,7 @@
 - `Forrásanyagok` (mappa) 
 - `A c# projekt fájljai és mappái`
 - `Előadás` (mappa): célszerűen egy ppt előadás
+- `Feladat leírása` (mappa): itt legyen a leírás
 
 # Feladatok, és kiosztásuk
 
