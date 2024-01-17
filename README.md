@@ -1,6 +1,9 @@
 # C# projektek a 12.d osztály részére
 2023-24-es tanév
 
+# Eszközök
+[Github mapppa letöltése](https://download-directory.github.io/)
+
 # Általános feltételek
 ## Környezet:
     - Githubon kell publikálni
