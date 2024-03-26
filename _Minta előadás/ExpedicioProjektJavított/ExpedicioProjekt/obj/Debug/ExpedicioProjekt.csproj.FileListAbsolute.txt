@@ -1,0 +1,23 @@
+C:\Tanulok\2023-2024\12d\Jáger Kristóf\c#\Expedíció\Expedicio_Projekt\ExpedicioProjekt\ExpedicioProjekt\bin\Debug\ExpedicioProjekt.exe.config
+C:\Tanulok\2023-2024\12d\Jáger Kristóf\c#\Expedíció\Expedicio_Projekt\ExpedicioProjekt\ExpedicioProjekt\bin\Debug\ExpedicioProjekt.exe
+C:\Tanulok\2023-2024\12d\Jáger Kristóf\c#\Expedíció\Expedicio_Projekt\ExpedicioProjekt\ExpedicioProjekt\bin\Debug\ExpedicioProjekt.pdb
+C:\Tanulok\2023-2024\12d\Jáger Kristóf\c#\Expedíció\Expedicio_Projekt\ExpedicioProjekt\ExpedicioProjekt\obj\Debug\ExpedicioProjekt.csproj.AssemblyReference.cache
+C:\Tanulok\2023-2024\12d\Jáger Kristóf\c#\Expedíció\Expedicio_Projekt\ExpedicioProjekt\ExpedicioProjekt\obj\Debug\ExpedicioProjekt.csproj.CoreCompileInputs.cache
+C:\Tanulok\2023-2024\12d\Jáger Kristóf\c#\Expedíció\Expedicio_Projekt\ExpedicioProjekt\ExpedicioProjekt\obj\Debug\ExpedicioProjekt.exe
+C:\Tanulok\2023-2024\12d\Jáger Kristóf\c#\Expedíció\Expedicio_Projekt\ExpedicioProjekt\ExpedicioProjekt\obj\Debug\ExpedicioProjekt.pdb
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\CS projekt\_Minta előadás\ExpedicioProjekt\ExpedicioProjekt\bin\Debug\ExpedicioProjekt.exe.config
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\CS projekt\_Minta előadás\ExpedicioProjekt\ExpedicioProjekt\bin\Debug\ExpedicioProjekt.exe
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\CS projekt\_Minta előadás\ExpedicioProjekt\ExpedicioProjekt\bin\Debug\ExpedicioProjekt.pdb
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\CS projekt\_Minta előadás\ExpedicioProjekt\ExpedicioProjekt\obj\Debug\ExpedicioProjekt.csproj.AssemblyReference.cache
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\CS projekt\_Minta előadás\ExpedicioProjekt\ExpedicioProjekt\obj\Debug\ExpedicioProjekt.csproj.SuggestedBindingRedirects.cache
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\CS projekt\_Minta előadás\ExpedicioProjekt\ExpedicioProjekt\obj\Debug\ExpedicioProjekt.csproj.CoreCompileInputs.cache
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\CS projekt\_Minta előadás\ExpedicioProjekt\ExpedicioProjekt\obj\Debug\ExpedicioProjekt.exe
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\CS projekt\_Minta előadás\ExpedicioProjekt\ExpedicioProjekt\obj\Debug\ExpedicioProjekt.pdb
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\CS projekt\_Minta előadás\ExpedicioProjektJavított\ExpedicioProjekt\obj\Debug\ExpedicioProjekt.csproj.AssemblyReference.cache
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\CS projekt\_Minta előadás\ExpedicioProjektJavított\ExpedicioProjekt\obj\Debug\ExpedicioProjekt.csproj.SuggestedBindingRedirects.cache
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\CS projekt\_Minta előadás\ExpedicioProjektJavított\ExpedicioProjekt\obj\Debug\ExpedicioProjekt.csproj.CoreCompileInputs.cache
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\CS projekt\_Minta előadás\ExpedicioProjektJavított\ExpedicioProjekt\obj\Debug\ExpedicioProjekt.exe
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\CS projekt\_Minta előadás\ExpedicioProjektJavított\ExpedicioProjekt\obj\Debug\ExpedicioProjekt.pdb
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\CS projekt\_Minta előadás\ExpedicioProjektJavított\ExpedicioProjekt\bin\Debug\ExpedicioProjekt.exe.config
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\CS projekt\_Minta előadás\ExpedicioProjektJavított\ExpedicioProjekt\bin\Debug\ExpedicioProjekt.exe
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\CS projekt\_Minta előadás\ExpedicioProjektJavított\ExpedicioProjekt\bin\Debug\ExpedicioProjekt.pdb
