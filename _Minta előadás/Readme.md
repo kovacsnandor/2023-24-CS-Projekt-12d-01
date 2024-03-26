@@ -1,4 +1,8 @@
-# Az előaedás szerkezete
+# Az előaedás általános szerkezete
+- Kevés szöveg, sok ábra
+- Jó vázlat: tartalmas összefoglaló szöveg. lehet sok
+
+
 1. Címlap
     - Legen figyelmefelkeltő, jöjjön át rajt a tartalom, mint egy jó cím
 
